@@ -5,10 +5,10 @@
 data-slideshow="true"
 
 2. Example structure:
-<ul data-slideshow="true">
-	<li><img src="..." /></li>
+< ul data-slideshow="true" >
+	< li >< img src="..." / >< /li >
 	....
-</ul>
+< /ul >
 
 ## Functionalities
 - init()
